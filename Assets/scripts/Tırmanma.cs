@@ -28,8 +28,15 @@ public class Tırmanma : MonoBehaviour
         if (other.CompareTag("Ladder"))
         {
             isClimbing = false;
-            rb.gravityScale = 1f; 
+            rb.gravityScale = 1f;
+            Invoke("Invisible", 0.1f);
         }
+    }
+
+
+    private void Invisible()
+    {
+        rb.gravityScale = 1;
     }
 
     private void Update()

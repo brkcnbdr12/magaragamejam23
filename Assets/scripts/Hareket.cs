@@ -18,6 +18,7 @@ public class PlayerMovement : MonoBehaviour
     public int maxJump = 2;
     public int remainingJump;
 
+
     [SerializeField] private Rigidbody2D rb;
     [SerializeField] private Transform groundCheck;
     [SerializeField] private LayerMask groundLayer;
