@@ -14,6 +14,10 @@ public class PlayerMovement : MonoBehaviour
     public float dashingTime = 0.2f;
     private float dashingCooldown = 1f;
 
+    private bool isJumping;
+    public int maxJump = 2;
+    public int remainingJump;
+
     [SerializeField] private Rigidbody2D rb;
     [SerializeField] private Transform groundCheck;
     [SerializeField] private LayerMask groundLayer;
@@ -28,9 +32,20 @@ public class PlayerMovement : MonoBehaviour
 
         horizontal = Input.GetAxisRaw("Horizontal");
 
-        if (Input.GetButtonDown("Jump") && IsGrounded())
+        if (IsGrounded() && !Input.GetButton("Jump"))
         {
-            rb.velocity = new Vector2(rb.velocity.x, jumpingPower);
+            isJumping = false;
+            remainingJump = maxJump;
+        }
+
+        if (Input.GetButtonDown("Jump") )
+        {
+            if (IsGrounded() ||(isJumping && remainingJump > 0) )
+            {
+                isJumping = true;
+                rb.velocity = new Vector2(rb.velocity.x, jumpingPower);
+                remainingJump--;
+            }
         }
 
         if (Input.GetButtonUp("Jump") && rb.velocity.y > 0f)

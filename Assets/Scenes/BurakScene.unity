@@ -1011,6 +1011,8 @@ MonoBehaviour:
   jumpingPower: 8
   dashingPower: 4
   dashingTime: 0.1
+  maxJump: 2
+  remainingJump: 0
   rb: {fileID: 2047054498}
   groundCheck: {fileID: 283164993}
   groundLayer:
