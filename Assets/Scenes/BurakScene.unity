@@ -1657,7 +1657,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 50ca8b85b330e2844b5891ba9e958cc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rb: {fileID: 0}
+  rb: {fileID: 790694710}
   itmeKuvveti: 5
   canAzalmasi: 100
 --- !u!61 &1913566846

@@ -15,11 +15,13 @@ public class lazer : MonoBehaviour
             if (rb != null)
             {
 
-                
-                rb.velocity = new Vector2(-5 * itmeKuvveti, rb.velocity.y );
+                if (this.transform.position.x < collision.transform.position.x)
+                    rb.velocity = new Vector2(-5 * itmeKuvveti, rb.velocity.y );
 
-                
-                Invoke("kontrol", 0.2f);
+                if (this.transform.position.x > collision.transform.position.x)
+                    rb.velocity = new Vector2(5 * itmeKuvveti, rb.velocity.y);
+
+
                 PlayerManager oyuncuScript = collision.GetComponent<PlayerManager>();
                 if (oyuncuScript != null)
                 {
