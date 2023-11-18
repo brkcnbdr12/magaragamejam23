@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Security.Cryptography;
 using UnityEngine;
 
@@ -10,22 +11,19 @@ public class Spike : MonoBehaviour
    
     bool saðdanÇarptý;
     [SerializeField] private Rigidbody2D rb;
-
+    private PlayerMovement movement;
    
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.CompareTag("Player")) 
         {
-            
+            movement = collision.GetComponent<PlayerMovement>();
             if (rb != null)
             {
-                
+                movement.Debugger = true;
                 Vector2 itmeYonu = (collision.transform.position - transform.position).normalized;
                 rb.velocity = itmeYonu * itmeKuvveti;
-                
-                if (itmeYonu.x < 0) { saðdanÇarptý = false; }
-                if (itmeYonu.x > 0) { saðdanÇarptý = true; }
-                Invoke("kontrol", 0.2f);
+                Invoke("inv", 0.5f);
                 PlayerManager oyuncuScript = collision.GetComponent<PlayerManager>();
                 if (oyuncuScript != null)
                 {
@@ -34,26 +32,9 @@ public class Spike : MonoBehaviour
             }
         }
     }
-    void kontrol()
+    private void inv()
     {
-        if(saðdanÇarptý)
-        {
-            if (rb.velocity.x > -5)
-            {
-                rb.velocity = new Vector2(100000,0);
-                
-            }
-           
-        }
-        if (!saðdanÇarptý)
-        {
-            if (rb.velocity.x < 5)
-            {
-                rb.velocity = new Vector2(-100000, 0);
-                
-            }
-        }
+        movement.Debugger = false;
     }
-   
 }
 

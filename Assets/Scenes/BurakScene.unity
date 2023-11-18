@@ -1658,7 +1658,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rb: {fileID: 790694710}
-  itmeKuvveti: 5
+  itmeKuvveti: 1.3
   canAzalmasi: 100
 --- !u!61 &1913566846
 BoxCollider2D:
