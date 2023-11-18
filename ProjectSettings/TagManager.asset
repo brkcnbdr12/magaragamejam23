@@ -7,6 +7,7 @@ TagManager:
   - Ground
   - top
   - side
+  - Ladder
   layers:
   - Default
   - TransparentFX

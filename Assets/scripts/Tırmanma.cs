@@ -8,6 +8,8 @@ public class Tırmanma : MonoBehaviour
 
     private bool isClimbing;
     private Rigidbody2D rb;
+    public Animator anim;
+   
 
     private void Start()
     {
@@ -23,6 +25,21 @@ public class Tırmanma : MonoBehaviour
         }
     }
 
+    private void OnTriggerStay2D(Collider2D other)
+    {
+        if (other.CompareTag("Ladder"))
+        {
+            anim.SetBool("Tırmanıyom", true);
+        }
+        if (rb.velocity.y == 0)
+        {
+            anim.speed = 0;
+        }else
+        {
+            anim.speed = 1f;
+        }
+
+    }
     private void OnTriggerExit2D(Collider2D other)
     {
         if (other.CompareTag("Ladder"))
@@ -30,6 +47,8 @@ public class Tırmanma : MonoBehaviour
             isClimbing = false;
             rb.gravityScale = 1f;
             Invoke("Invisible", 0.1f);
+            anim.SetBool("Tırmanıyom", false);
+            anim.speed = 1f;
         }
     }
 
