@@ -23,9 +23,19 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private Transform groundCheck;
     [SerializeField] private LayerMask groundLayer;
     [SerializeField] private TrailRenderer tr;
-
+    [SerializeField] private Animator animator;
     private void Update()
     {
+        if(rb.velocity.x != 0)
+        {
+            animator.SetBool("amIRunning", true);
+
+        }
+        else
+        {
+            animator.SetBool("amIRunning", false);
+
+        }
         if (isDashing)
         {
             return;
