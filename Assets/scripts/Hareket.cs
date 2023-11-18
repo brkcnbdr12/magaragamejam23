@@ -28,7 +28,12 @@ public class PlayerMovement : MonoBehaviour
     public bool Debugger = false;
     private void Update()
     {
-        if(rb.velocity.x != 0)
+        if(IsGrounded() == false)
+        {
+            animator.SetBool("AmIGrounded", false);
+        }
+        else animator.SetBool("AmIGrounded", true);
+        if (rb.velocity.x != 0)
         {
             animator.SetBool("amIRunning", true);
 

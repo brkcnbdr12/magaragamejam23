@@ -22,6 +22,8 @@ public class Spike : MonoBehaviour
             {
                 movement.Debugger = true;
                 Vector2 itmeYonu = (collision.transform.position - transform.position).normalized;
+                if (this.CompareTag("DönenDisk")) { itmeYonu = new Vector2(itmeYonu.x - 2, itmeYonu.y); }
+                
                 rb.velocity = itmeYonu * itmeKuvveti;
                 Invoke("inv", 0.5f);
                 PlayerManager oyuncuScript = collision.GetComponent<PlayerManager>();
