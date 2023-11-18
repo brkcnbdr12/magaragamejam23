@@ -61,9 +61,7 @@ public class PlayerMovement : MonoBehaviour
             Debugger = false;
             if (IsGrounded() ||(isJumping && remainingJump > 0) )
             {
-                isJumping = true;
-                rb.velocity = new Vector2(rb.velocity.x, jumpingPower);
-                remainingJump--;
+                Invoke("ýnvoke", 0.04f);
             }
         }
         if (Input.GetKey(KeyCode.RightArrow) || Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.LeftArrow) || Input.GetKey(KeyCode.A) && rb.velocity == Vector2.zero)
@@ -82,7 +80,12 @@ public class PlayerMovement : MonoBehaviour
 
         Flip();
     }
-
+    void ýnvoke()
+    {
+        isJumping = true;
+        rb.velocity = new Vector2(rb.velocity.x, jumpingPower);
+        remainingJump--;
+    }
     private void FixedUpdate()
     {
         if (isDashing)
