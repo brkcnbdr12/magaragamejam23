@@ -8,6 +8,7 @@ TagManager:
   - top
   - side
   - Ladder
+  - "D\xF6nenDisk"
   layers:
   - Default
   - TransparentFX
