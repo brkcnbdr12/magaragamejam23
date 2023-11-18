@@ -24,6 +24,8 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private LayerMask groundLayer;
     [SerializeField] private TrailRenderer tr;
     [SerializeField] private Animator animator;
+
+    public bool Debugger = false;
     private void Update()
     {
         if(rb.velocity.x != 0)
@@ -51,6 +53,7 @@ public class PlayerMovement : MonoBehaviour
 
         if (Input.GetButtonDown("Jump") )
         {
+            Debugger = false;
             if (IsGrounded() ||(isJumping && remainingJump > 0) )
             {
                 isJumping = true;
@@ -58,7 +61,10 @@ public class PlayerMovement : MonoBehaviour
                 remainingJump--;
             }
         }
-
+        if (Input.GetKey(KeyCode.RightArrow) || Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.LeftArrow) || Input.GetKey(KeyCode.A) && rb.velocity == Vector2.zero)
+        {
+            Debugger = false;
+        }
         if (Input.GetButtonUp("Jump") && rb.velocity.y > 0f)
         {
             rb.velocity = new Vector2(rb.velocity.x, rb.velocity.y * 0.5f);
@@ -79,7 +85,11 @@ public class PlayerMovement : MonoBehaviour
             return;
         }
 
-        rb.velocity = new Vector2(horizontal * speed, rb.velocity.y);
+        if (!Debugger)
+        {
+            rb.velocity = new Vector2(horizontal * speed, rb.velocity.y);
+        }
+        
     }
 
     private bool IsGrounded()
@@ -100,6 +110,7 @@ public class PlayerMovement : MonoBehaviour
 
     private IEnumerator Dash()
     {
+        Debugger = false;//Dýþ harekete etki için.
         canDash = false;
         isDashing = true;
         float originalGravity = rb.gravityScale;
