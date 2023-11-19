@@ -9,6 +9,8 @@ TagManager:
   - side
   - Ladder
   - "D\xF6nenDisk"
+  - leftWall
+  - rightWall
   layers:
   - Default
   - TransparentFX
