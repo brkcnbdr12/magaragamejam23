@@ -7,7 +7,7 @@ public class SpeechEditor : MonoBehaviour
 {
     public TextMeshProUGUI textKoymaYERÝ;
     [SerializeField] private AudioSource asour;
-    public float yazmaAraligi = 0.1f;
+    public float yazmaAraligi = 0.04f;
     public string metin;
 
     public void Yazdýrma()
@@ -26,7 +26,7 @@ public class SpeechEditor : MonoBehaviour
             asour.Play();
             yield return new WaitForSeconds(yazmaAraligi);
         }
-        Invoke("Invo", 3f);
+        Invoke("Invo", 2f);
     }
     void Invo()
     {

@@ -440,6 +440,273 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cf21d69f2b8be894188cb9dacd350756, type: 3}
+--- !u!1001 &200069737
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 902456701}
+    m_Modifications:
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinci
+      value: 
+      objectReference: {fileID: 2214286046778201810}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.size
+      value: 44
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[0]
+      value: "Neredeyim ben, Kar\u0131m nerede ??"
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[1]
+      value: "Lanet olsun bu \u015Feyler beni 3 vuru\u015Fta \xF6ld\xFCr\xFCr!"
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[2]
+      value: "Ama ne pahas\u0131na olursa olsun onu bulmam laz\u0131m."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[3]
+      value: "San\u0131r\u0131m buradan ilerlemeliyim."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[4]
+      value: "Derin bir ma\u011Fara. Lanet olsun Selin neredesin?"
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[5]
+      value: "Buradan nas\u0131l atl\u0131y\u0131cam."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[6]
+      value: "Ama ona ula\u015Fmal\u0131y\u0131m, san\u0131r\u0131m \u015Fans\u0131m\u0131
+        denemem laz\u0131m."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[7]
+      value: "Merhaba yolcu, t\xFCm ziyaret\xE7iler burada ho\u015F kar\u015F\u0131lan\u0131r."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[8]
+      value: "D\xFC\u015Ft\xFC\u011F\xFCn zaman bacaklar\u0131n kullan\u0131lamaz
+        hale geldi."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[9]
+      value: "Senin i\xE7in bu robotik bacaklar\u0131 yapt\u0131m."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[10]
+      value: "Peki Yolun nas\u0131l buralara d\xFC\u015Ft\xFC ? "
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[11]
+      value: "K\u0131z arkada\u015F\u0131m\u0131 kaybettim onu ar\u0131yorum."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[12]
+      value: "Anliyorum buralarda bir \xE7ok ki\u015Fi kaybolur."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[13]
+      value: "\u0130stersen k\u0131z arkada\u015F\u0131n\u0131 ararken ki yolculu\u011Fun
+        da sana e\u015Flik edebilirim."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[14]
+      value: "\u0130htiyac\u0131n oluca\u011F\u0131na eminim "
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[15]
+      value: "Tabiki bu yolculukta beni yanl\u0131z b\u0131rakmad\u0131\u011F\u0131n\u0131z
+        i\xE7in te\u015Fek\xFCr ederim."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[16]
+      value: "Te\u015Fekk\xFCr etmek i\xE7in daha \xE7ok erken hadi yola koyulal\u0131m."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[17]
+      value: "Birazc\u0131k y\xFCksek g\xF6r\xFCn\xFCyor"
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[18]
+      value: "Daha y\xFCkse\u011Fe z\u0131plaman i\xE7in bacaklar\u0131na yeni implantlar
+        yerle\u015Ftirdim."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[19]
+      value: "Yeni implantlar\u0131n sayesinde havada bir kez daha z\u0131playabiliceksin."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[20]
+      value: "(space+space) - \xC7ift Z\u0131plama - "
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[21]
+      value: "Haz\u0131rsan devam edelim."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[22]
+      value: "G\xF6r\xFCyorum ki farkl\u0131 engellerle kar\u015F\u0131la\u015Ft\u0131n."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[23]
+      value: "Yoluna devam edebilmen i\xE7in bacaklar\u0131na bir ka\xE7 ekleme yapt\u0131m."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[24]
+      value: "Art\u0131k ileriye at\u0131larak bo\u015Fluklar dan ge\xE7ebilirsin "
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[25]
+      value: "(shift) - At\u0131lma -"
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[26]
+      value: "H\u0131zl\u0131 olmal\u0131y\u0131z k\u0131z arkada\u015F\u0131n i\xE7in
+        \xE7ok ge\xE7 olabilir."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[27]
+      value: "Ma\u011Faran\u0131n dibine do\u011Fru yakla\u015Fiyoruz."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[28]
+      value: "Yeni eklemelerin sayesin de duvardan kayabilir ve duvardan duvara z\u0131playabilrsin."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[29]
+      value: "Havadayken duvara do\u011Fru gidersen kaymaya ba\u015Flars\u0131n duvara
+        yap\u0131\u015F\u0131p."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[30]
+      value: "Duvardan kayarken z\u0131playabilirsin."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[31]
+      value: "S-selin sonunda seni bulabildim aray\u0131\u015F\u0131m sona erdi."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[32]
+      value: "Sonunda sana tekrar kavu\u015Fabildim."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[33]
+      value: "Benim i\xE7in gelece\u011Fini biliyordum."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[34]
+      value: Sana inanarak burada bekledim.
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[35]
+      value: "Hadi seni burdan \xE7\u0131kartal\u0131m."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[36]
+      value: "HAHAHHAHAHA DEMEK KAVU\u015ETUNUZ \xDCZG\xDCN\xDCM AMA G\u0130TMEN\u0130ZE
+        \u0130Z\u0130N VEREMEM"
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[37]
+      value: "K\u0131z burda kalacak ve sende benimle geliceksin."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[38]
+      value: "Amac\u0131n ne bizden ne istiyorsun ???"
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[39]
+      value: "K\u0131z arkada\u015F\u0131n cyborglar hakk\u0131n da \xE7ok \u015Fey
+        biliyor ve art\u0131k sende bir cyborg say\u0131l\u0131rs\u0131n."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[40]
+      value: "Benim i\xE7in muhte\u015Fem bir e\u015F olabilirsin."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[41]
+      value: "Benimle kal ve yeni bir cyborg \xE7a\u011F\u0131 ba\u015Flatal\u0131m."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[42]
+      value: Hayatta olmaz.
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[43]
+      value: "O zaman ikiniz de \xF6ld\xFCrmek zorunday\u0131m"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2619859671489596594, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_Name
+      value: 1 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.4166666
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.4166666
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.4166666
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -399.11
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -224.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+--- !u!4 &200069738 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+  m_PrefabInstance: {fileID: 200069737}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &210195967 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3727275219688075826, guid: cf21d69f2b8be894188cb9dacd350756, type: 3}
@@ -636,6 +903,273 @@ Transform:
 Transform:
   m_CorrespondingSourceObject: {fileID: 4617331926331233366, guid: 0bf255bd6cfca8f48a064216a99edc93, type: 3}
   m_PrefabInstance: {fileID: 1506124723}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &312705666
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 902456701}
+    m_Modifications:
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinci
+      value: 
+      objectReference: {fileID: 2214286046778201810}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.size
+      value: 44
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[0]
+      value: "Neredeyim ben, Kar\u0131m nerede ??"
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[1]
+      value: "Lanet olsun bu \u015Feyler beni 3 vuru\u015Fta \xF6ld\xFCr\xFCr!"
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[2]
+      value: "Ama ne pahas\u0131na olursa olsun onu bulmam laz\u0131m."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[3]
+      value: "San\u0131r\u0131m buradan ilerlemeliyim."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[4]
+      value: "Derin bir ma\u011Fara. Lanet olsun Selin neredesin?"
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[5]
+      value: "Buradan nas\u0131l atl\u0131y\u0131cam."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[6]
+      value: "Ama ona ula\u015Fmal\u0131y\u0131m, san\u0131r\u0131m \u015Fans\u0131m\u0131
+        denemem laz\u0131m."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[7]
+      value: "Merhaba yolcu, t\xFCm ziyaret\xE7iler burada ho\u015F kar\u015F\u0131lan\u0131r."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[8]
+      value: "D\xFC\u015Ft\xFC\u011F\xFCn zaman bacaklar\u0131n kullan\u0131lamaz
+        hale geldi."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[9]
+      value: "Senin i\xE7in bu robotik bacaklar\u0131 yapt\u0131m."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[10]
+      value: "Peki Yolun nas\u0131l buralara d\xFC\u015Ft\xFC ? "
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[11]
+      value: "K\u0131z arkada\u015F\u0131m\u0131 kaybettim onu ar\u0131yorum."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[12]
+      value: "Anliyorum buralarda bir \xE7ok ki\u015Fi kaybolur."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[13]
+      value: "\u0130stersen k\u0131z arkada\u015F\u0131n\u0131 ararken ki yolculu\u011Fun
+        da sana e\u015Flik edebilirim."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[14]
+      value: "\u0130htiyac\u0131n oluca\u011F\u0131na eminim "
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[15]
+      value: "Tabiki bu yolculukta beni yanl\u0131z b\u0131rakmad\u0131\u011F\u0131n\u0131z
+        i\xE7in te\u015Fek\xFCr ederim."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[16]
+      value: "Te\u015Fekk\xFCr etmek i\xE7in daha \xE7ok erken hadi yola koyulal\u0131m."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[17]
+      value: "Birazc\u0131k y\xFCksek g\xF6r\xFCn\xFCyor"
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[18]
+      value: "Daha y\xFCkse\u011Fe z\u0131plaman i\xE7in bacaklar\u0131na yeni implantlar
+        yerle\u015Ftirdim."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[19]
+      value: "Yeni implantlar\u0131n sayesinde havada bir kez daha z\u0131playabiliceksin."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[20]
+      value: "(space+space) - \xC7ift Z\u0131plama - "
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[21]
+      value: "Haz\u0131rsan devam edelim."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[22]
+      value: "G\xF6r\xFCyorum ki farkl\u0131 engellerle kar\u015F\u0131la\u015Ft\u0131n."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[23]
+      value: "Yoluna devam edebilmen i\xE7in bacaklar\u0131na bir ka\xE7 ekleme yapt\u0131m."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[24]
+      value: "Art\u0131k ileriye at\u0131larak bo\u015Fluklar dan ge\xE7ebilirsin "
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[25]
+      value: "(shift) - At\u0131lma -"
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[26]
+      value: "H\u0131zl\u0131 olmal\u0131y\u0131z k\u0131z arkada\u015F\u0131n i\xE7in
+        \xE7ok ge\xE7 olabilir."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[27]
+      value: "Ma\u011Faran\u0131n dibine do\u011Fru yakla\u015Fiyoruz."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[28]
+      value: "Yeni eklemelerin sayesin de duvardan kayabilir ve duvardan duvara z\u0131playabilrsin."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[29]
+      value: "Havadayken duvara do\u011Fru gidersen kaymaya ba\u015Flars\u0131n duvara
+        yap\u0131\u015F\u0131p."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[30]
+      value: "Duvardan kayarken z\u0131playabilirsin."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[31]
+      value: "S-selin sonunda seni bulabildim aray\u0131\u015F\u0131m sona erdi."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[32]
+      value: "Sonunda sana tekrar kavu\u015Fabildim."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[33]
+      value: "Benim i\xE7in gelece\u011Fini biliyordum."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[34]
+      value: Sana inanarak burada bekledim.
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[35]
+      value: "Hadi seni burdan \xE7\u0131kartal\u0131m."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[36]
+      value: "HAHAHHAHAHA DEMEK KAVU\u015ETUNUZ \xDCZG\xDCN\xDCM AMA G\u0130TMEN\u0130ZE
+        \u0130Z\u0130N VEREMEM"
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[37]
+      value: "K\u0131z burda kalacak ve sende benimle geliceksin."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[38]
+      value: "Amac\u0131n ne bizden ne istiyorsun ???"
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[39]
+      value: "K\u0131z arkada\u015F\u0131n cyborglar hakk\u0131n da \xE7ok \u015Fey
+        biliyor ve art\u0131k sende bir cyborg say\u0131l\u0131rs\u0131n."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[40]
+      value: "Benim i\xE7in muhte\u015Fem bir e\u015F olabilirsin."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[41]
+      value: "Benimle kal ve yeni bir cyborg \xE7a\u011F\u0131 ba\u015Flatal\u0131m."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[42]
+      value: Hayatta olmaz.
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[43]
+      value: "O zaman ikiniz de \xF6ld\xFCrmek zorunday\u0131m"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2619859671489596594, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_Name
+      value: 1 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.4166666
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.4166666
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.4166666
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -385.14
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -218.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+--- !u!4 &312705667 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+  m_PrefabInstance: {fileID: 312705666}
   m_PrefabAsset: {fileID: 0}
 --- !u!4 &318247276 stripped
 Transform:
@@ -997,6 +1531,109 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 1468224899131399350, guid: dfd6ac42f84cb83428a27a37df0ace1c, type: 3}
   m_PrefabInstance: {fileID: 1122180762}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &549967244
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 549967248}
+  - component: {fileID: 549967247}
+  - component: {fileID: 549967246}
+  - component: {fileID: 549967245}
+  m_Layer: 5
+  m_Name: Canvas
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &549967245
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 549967244}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_IgnoreReversedGraphics: 1
+  m_BlockingObjects: 0
+  m_BlockingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+--- !u!114 &549967246
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 549967244}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_UiScaleMode: 1
+  m_ReferencePixelsPerUnit: 100
+  m_ScaleFactor: 1
+  m_ReferenceResolution: {x: 800, y: 600}
+  m_ScreenMatchMode: 0
+  m_MatchWidthOrHeight: 0
+  m_PhysicalUnit: 3
+  m_FallbackScreenDPI: 96
+  m_DefaultSpriteDPI: 96
+  m_DynamicPixelsPerUnit: 1
+  m_PresetInfoIsWorld: 0
+--- !u!223 &549967247
+Canvas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 549967244}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_RenderMode: 0
+  m_Camera: {fileID: 0}
+  m_PlaneDistance: 100
+  m_PixelPerfect: 0
+  m_ReceivesEvents: 1
+  m_OverrideSorting: 0
+  m_OverridePixelPerfect: 0
+  m_SortingBucketNormalizedSize: 0
+  m_VertexColorAlwaysGammaSpace: 0
+  m_AdditionalShaderChannelsFlag: 25
+  m_UpdateRectTransformForStandalone: 0
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  m_TargetDisplay: 0
+--- !u!224 &549967248
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 549967244}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0, y: 0, z: 0}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8763049638908571185}
+  - {fileID: 902456701}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0, y: 0}
 --- !u!1001 &575618967
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1634,6 +2271,74 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cf21d69f2b8be894188cb9dacd350756, type: 3}
+--- !u!1 &764001925
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 764001928}
+  - component: {fileID: 764001927}
+  - component: {fileID: 764001926}
+  m_Layer: 0
+  m_Name: EventSystem
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &764001926
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 764001925}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SendPointerHoverToParent: 1
+  m_HorizontalAxis: Horizontal
+  m_VerticalAxis: Vertical
+  m_SubmitButton: Submit
+  m_CancelButton: Cancel
+  m_InputActionsPerSecond: 10
+  m_RepeatDelay: 0.5
+  m_ForceModuleActive: 0
+--- !u!114 &764001927
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 764001925}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_FirstSelected: {fileID: 0}
+  m_sendNavigationEvents: 1
+  m_DragThreshold: 10
+--- !u!4 &764001928
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 764001925}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &799938370 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3727275219688075826, guid: cf21d69f2b8be894188cb9dacd350756, type: 3}
@@ -8806,6 +9511,273 @@ TilemapCollider2D:
   m_MaximumTileChangeCount: 1000
   m_ExtrusionFactor: 0
   m_UseDelaunayMesh: 0
+--- !u!1001 &844265146
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 902456701}
+    m_Modifications:
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinci
+      value: 
+      objectReference: {fileID: 2214286046778201810}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.size
+      value: 44
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[0]
+      value: "Neredeyim ben, Kar\u0131m nerede ??"
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[1]
+      value: "Lanet olsun bu \u015Feyler beni 3 vuru\u015Fta \xF6ld\xFCr\xFCr!"
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[2]
+      value: "Ama ne pahas\u0131na olursa olsun onu bulmam laz\u0131m."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[3]
+      value: "San\u0131r\u0131m buradan ilerlemeliyim."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[4]
+      value: "Derin bir ma\u011Fara. Lanet olsun Selin neredesin?"
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[5]
+      value: "Buradan nas\u0131l atl\u0131y\u0131cam."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[6]
+      value: "Ama ona ula\u015Fmal\u0131y\u0131m, san\u0131r\u0131m \u015Fans\u0131m\u0131
+        denemem laz\u0131m."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[7]
+      value: "Merhaba yolcu, t\xFCm ziyaret\xE7iler burada ho\u015F kar\u015F\u0131lan\u0131r."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[8]
+      value: "D\xFC\u015Ft\xFC\u011F\xFCn zaman bacaklar\u0131n kullan\u0131lamaz
+        hale geldi."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[9]
+      value: "Senin i\xE7in bu robotik bacaklar\u0131 yapt\u0131m."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[10]
+      value: "Peki Yolun nas\u0131l buralara d\xFC\u015Ft\xFC ? "
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[11]
+      value: "K\u0131z arkada\u015F\u0131m\u0131 kaybettim onu ar\u0131yorum."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[12]
+      value: "Anliyorum buralarda bir \xE7ok ki\u015Fi kaybolur."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[13]
+      value: "\u0130stersen k\u0131z arkada\u015F\u0131n\u0131 ararken ki yolculu\u011Fun
+        da sana e\u015Flik edebilirim."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[14]
+      value: "\u0130htiyac\u0131n oluca\u011F\u0131na eminim "
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[15]
+      value: "Tabiki bu yolculukta beni yanl\u0131z b\u0131rakmad\u0131\u011F\u0131n\u0131z
+        i\xE7in te\u015Fek\xFCr ederim."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[16]
+      value: "Te\u015Fekk\xFCr etmek i\xE7in daha \xE7ok erken hadi yola koyulal\u0131m."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[17]
+      value: "Birazc\u0131k y\xFCksek g\xF6r\xFCn\xFCyor"
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[18]
+      value: "Daha y\xFCkse\u011Fe z\u0131plaman i\xE7in bacaklar\u0131na yeni implantlar
+        yerle\u015Ftirdim."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[19]
+      value: "Yeni implantlar\u0131n sayesinde havada bir kez daha z\u0131playabiliceksin."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[20]
+      value: "(space+space) - \xC7ift Z\u0131plama - "
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[21]
+      value: "Haz\u0131rsan devam edelim."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[22]
+      value: "G\xF6r\xFCyorum ki farkl\u0131 engellerle kar\u015F\u0131la\u015Ft\u0131n."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[23]
+      value: "Yoluna devam edebilmen i\xE7in bacaklar\u0131na bir ka\xE7 ekleme yapt\u0131m."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[24]
+      value: "Art\u0131k ileriye at\u0131larak bo\u015Fluklar dan ge\xE7ebilirsin "
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[25]
+      value: "(shift) - At\u0131lma -"
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[26]
+      value: "H\u0131zl\u0131 olmal\u0131y\u0131z k\u0131z arkada\u015F\u0131n i\xE7in
+        \xE7ok ge\xE7 olabilir."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[27]
+      value: "Ma\u011Faran\u0131n dibine do\u011Fru yakla\u015Fiyoruz."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[28]
+      value: "Yeni eklemelerin sayesin de duvardan kayabilir ve duvardan duvara z\u0131playabilrsin."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[29]
+      value: "Havadayken duvara do\u011Fru gidersen kaymaya ba\u015Flars\u0131n duvara
+        yap\u0131\u015F\u0131p."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[30]
+      value: "Duvardan kayarken z\u0131playabilirsin."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[31]
+      value: "S-selin sonunda seni bulabildim aray\u0131\u015F\u0131m sona erdi."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[32]
+      value: "Sonunda sana tekrar kavu\u015Fabildim."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[33]
+      value: "Benim i\xE7in gelece\u011Fini biliyordum."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[34]
+      value: Sana inanarak burada bekledim.
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[35]
+      value: "Hadi seni burdan \xE7\u0131kartal\u0131m."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[36]
+      value: "HAHAHHAHAHA DEMEK KAVU\u015ETUNUZ \xDCZG\xDCN\xDCM AMA G\u0130TMEN\u0130ZE
+        \u0130Z\u0130N VEREMEM"
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[37]
+      value: "K\u0131z burda kalacak ve sende benimle geliceksin."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[38]
+      value: "Amac\u0131n ne bizden ne istiyorsun ???"
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[39]
+      value: "K\u0131z arkada\u015F\u0131n cyborglar hakk\u0131n da \xE7ok \u015Fey
+        biliyor ve art\u0131k sende bir cyborg say\u0131l\u0131rs\u0131n."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[40]
+      value: "Benim i\xE7in muhte\u015Fem bir e\u015F olabilirsin."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[41]
+      value: "Benimle kal ve yeni bir cyborg \xE7a\u011F\u0131 ba\u015Flatal\u0131m."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[42]
+      value: Hayatta olmaz.
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[43]
+      value: "O zaman ikiniz de \xF6ld\xFCrmek zorunday\u0131m"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2619859671489596594, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_Name
+      value: 1 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.4166666
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.4166666
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.4166666
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -404.57
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -218.46
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+--- !u!4 &844265147 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+  m_PrefabInstance: {fileID: 844265146}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &891917447
 GameObject:
   m_ObjectHideFlags: 0
@@ -9013,6 +9985,46 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &902456700
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 902456701}
+  m_Layer: 5
+  m_Name: "\xC7a\u011F\u0131r\u0131c\u0131lar"
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &902456701
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 902456700}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2041087614}
+  - {fileID: 200069738}
+  - {fileID: 1720673012}
+  - {fileID: 844265147}
+  - {fileID: 312705667}
+  m_Father: {fileID: 549967248}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 100, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &907677892
 GameObject:
   m_ObjectHideFlags: 0
@@ -9591,6 +10603,134 @@ PrefabInstance:
       addedObject: {fileID: 677771155}
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cf21d69f2b8be894188cb9dacd350756, type: 3}
+--- !u!1 &1269767187
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1269767189}
+  - component: {fileID: 1269767188}
+  m_Layer: 0
+  m_Name: tiktikloop 1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!82 &1269767188
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1269767187}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: e9bdb7729bbebf64caee09dac9fd9af8, type: 3}
+  m_PlayOnAwake: 1
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!4 &1269767189
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1269767187}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1331469935
 GameObject:
   m_ObjectHideFlags: 0
@@ -9678,7 +10818,7 @@ Transform:
   m_GameObject: {fileID: 1331469935}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.67, y: 22.09, z: -10}
+  m_LocalPosition: {x: -7.446787, y: 0.60581994, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -10047,6 +11187,140 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 180}
+--- !u!1 &1440187605
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1440187608}
+  - component: {fileID: 1440187607}
+  - component: {fileID: 1440187606}
+  m_Layer: 5
+  m_Name: Text (TMP)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1440187606
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1440187605}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: 
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+  m_enableVertexGradient: 0
+  m_colorMode: 3
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_StyleSheet: {fileID: 0}
+  m_TextStyleHashCode: -1183493901
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontSize: 20
+  m_fontSizeBase: 20
+  m_fontWeight: 400
+  m_enableAutoSizing: 0
+  m_fontSizeMin: 18
+  m_fontSizeMax: 72
+  m_fontStyle: 2
+  m_HorizontalAlignment: 1
+  m_VerticalAlignment: 256
+  m_textAlignment: 65535
+  m_characterSpacing: 0
+  m_wordSpacing: 0
+  m_lineSpacing: 0
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_enableWordWrapping: 1
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_linkedTextComponent: {fileID: 0}
+  parentLinkedComponent: {fileID: 0}
+  m_enableKerning: 1
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 1
+  m_isCullingEnabled: 0
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_IsTextObjectScaleStatic: 0
+  m_VertexBufferAutoSizeReduction: 0
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: 0, y: 0, z: -349.3225, w: -23.418728}
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  m_hasFontAssetChanged: 0
+  m_baseMaterial: {fileID: 0}
+  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!222 &1440187607
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1440187605}
+  m_CullTransparentMesh: 1
+--- !u!224 &1440187608
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1440187605}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8763049638908571185}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -233, y: 13}
+  m_SizeDelta: {x: 200, y: 50}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1001 &1506124723
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10061,11 +11335,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4617331926331233366, guid: 0bf255bd6cfca8f48a064216a99edc93, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 2.67
+      value: -6.78
       objectReference: {fileID: 0}
     - target: {fileID: 4617331926331233366, guid: 0bf255bd6cfca8f48a064216a99edc93, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 22.09
+      value: -1.5
       objectReference: {fileID: 0}
     - target: {fileID: 5134902516771098327, guid: 0bf255bd6cfca8f48a064216a99edc93, type: 3}
       propertyPath: m_SortingOrder
@@ -10898,6 +12172,273 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cf21d69f2b8be894188cb9dacd350756, type: 3}
+--- !u!1001 &1720673011
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 902456701}
+    m_Modifications:
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinci
+      value: 
+      objectReference: {fileID: 2214286046778201810}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.size
+      value: 44
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[0]
+      value: "Neredeyim ben, Kar\u0131m nerede ??"
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[1]
+      value: "Lanet olsun bu \u015Feyler beni 3 vuru\u015Fta \xF6ld\xFCr\xFCr!"
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[2]
+      value: "Ama ne pahas\u0131na olursa olsun onu bulmam laz\u0131m."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[3]
+      value: "San\u0131r\u0131m buradan ilerlemeliyim."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[4]
+      value: "Derin bir ma\u011Fara. Lanet olsun Selin neredesin?"
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[5]
+      value: "Buradan nas\u0131l atl\u0131y\u0131cam."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[6]
+      value: "Ama ona ula\u015Fmal\u0131y\u0131m, san\u0131r\u0131m \u015Fans\u0131m\u0131
+        denemem laz\u0131m."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[7]
+      value: "Merhaba yolcu, t\xFCm ziyaret\xE7iler burada ho\u015F kar\u015F\u0131lan\u0131r."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[8]
+      value: "D\xFC\u015Ft\xFC\u011F\xFCn zaman bacaklar\u0131n kullan\u0131lamaz
+        hale geldi."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[9]
+      value: "Senin i\xE7in bu robotik bacaklar\u0131 yapt\u0131m."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[10]
+      value: "Peki Yolun nas\u0131l buralara d\xFC\u015Ft\xFC ? "
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[11]
+      value: "K\u0131z arkada\u015F\u0131m\u0131 kaybettim onu ar\u0131yorum."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[12]
+      value: "Anliyorum buralarda bir \xE7ok ki\u015Fi kaybolur."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[13]
+      value: "\u0130stersen k\u0131z arkada\u015F\u0131n\u0131 ararken ki yolculu\u011Fun
+        da sana e\u015Flik edebilirim."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[14]
+      value: "\u0130htiyac\u0131n oluca\u011F\u0131na eminim "
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[15]
+      value: "Tabiki bu yolculukta beni yanl\u0131z b\u0131rakmad\u0131\u011F\u0131n\u0131z
+        i\xE7in te\u015Fek\xFCr ederim."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[16]
+      value: "Te\u015Fekk\xFCr etmek i\xE7in daha \xE7ok erken hadi yola koyulal\u0131m."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[17]
+      value: "Birazc\u0131k y\xFCksek g\xF6r\xFCn\xFCyor"
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[18]
+      value: "Daha y\xFCkse\u011Fe z\u0131plaman i\xE7in bacaklar\u0131na yeni implantlar
+        yerle\u015Ftirdim."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[19]
+      value: "Yeni implantlar\u0131n sayesinde havada bir kez daha z\u0131playabiliceksin."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[20]
+      value: "(space+space) - \xC7ift Z\u0131plama - "
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[21]
+      value: "Haz\u0131rsan devam edelim."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[22]
+      value: "G\xF6r\xFCyorum ki farkl\u0131 engellerle kar\u015F\u0131la\u015Ft\u0131n."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[23]
+      value: "Yoluna devam edebilmen i\xE7in bacaklar\u0131na bir ka\xE7 ekleme yapt\u0131m."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[24]
+      value: "Art\u0131k ileriye at\u0131larak bo\u015Fluklar dan ge\xE7ebilirsin "
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[25]
+      value: "(shift) - At\u0131lma -"
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[26]
+      value: "H\u0131zl\u0131 olmal\u0131y\u0131z k\u0131z arkada\u015F\u0131n i\xE7in
+        \xE7ok ge\xE7 olabilir."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[27]
+      value: "Ma\u011Faran\u0131n dibine do\u011Fru yakla\u015Fiyoruz."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[28]
+      value: "Yeni eklemelerin sayesin de duvardan kayabilir ve duvardan duvara z\u0131playabilrsin."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[29]
+      value: "Havadayken duvara do\u011Fru gidersen kaymaya ba\u015Flars\u0131n duvara
+        yap\u0131\u015F\u0131p."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[30]
+      value: "Duvardan kayarken z\u0131playabilirsin."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[31]
+      value: "S-selin sonunda seni bulabildim aray\u0131\u015F\u0131m sona erdi."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[32]
+      value: "Sonunda sana tekrar kavu\u015Fabildim."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[33]
+      value: "Benim i\xE7in gelece\u011Fini biliyordum."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[34]
+      value: Sana inanarak burada bekledim.
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[35]
+      value: "Hadi seni burdan \xE7\u0131kartal\u0131m."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[36]
+      value: "HAHAHHAHAHA DEMEK KAVU\u015ETUNUZ \xDCZG\xDCN\xDCM AMA G\u0130TMEN\u0130ZE
+        \u0130Z\u0130N VEREMEM"
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[37]
+      value: "K\u0131z burda kalacak ve sende benimle geliceksin."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[38]
+      value: "Amac\u0131n ne bizden ne istiyorsun ???"
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[39]
+      value: "K\u0131z arkada\u015F\u0131n cyborglar hakk\u0131n da \xE7ok \u015Fey
+        biliyor ve art\u0131k sende bir cyborg say\u0131l\u0131rs\u0131n."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[40]
+      value: "Benim i\xE7in muhte\u015Fem bir e\u015F olabilirsin."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[41]
+      value: "Benimle kal ve yeni bir cyborg \xE7a\u011F\u0131 ba\u015Flatal\u0131m."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[42]
+      value: Hayatta olmaz.
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[43]
+      value: "O zaman ikiniz de \xF6ld\xFCrmek zorunday\u0131m"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2619859671489596594, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_Name
+      value: 1 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.4166666
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.4166666
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.4166666
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -400.81
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -223.06
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+--- !u!4 &1720673012 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+  m_PrefabInstance: {fileID: 1720673011}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1740427430
 GameObject:
   m_ObjectHideFlags: 0
@@ -11348,7 +12889,7 @@ Transform:
   m_GameObject: {fileID: 1926764749}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.67, y: 22.09, z: -10}
+  m_LocalPosition: {x: -6.78, y: -1.5, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -11728,6 +13269,273 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -236.906}
+--- !u!1001 &2041087613
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 902456701}
+    m_Modifications:
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinci
+      value: 
+      objectReference: {fileID: 2214286046778201810}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.size
+      value: 44
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[0]
+      value: "Neredeyim ben, Kar\u0131m nerede ??"
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[1]
+      value: "Lanet olsun bu \u015Feyler beni 3 vuru\u015Fta \xF6ld\xFCr\xFCr!"
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[2]
+      value: "Ama ne pahas\u0131na olursa olsun onu bulmam laz\u0131m."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[3]
+      value: "San\u0131r\u0131m buradan ilerlemeliyim."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[4]
+      value: "Derin bir ma\u011Fara. Lanet olsun Selin neredesin?"
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[5]
+      value: "Buradan nas\u0131l atl\u0131y\u0131cam."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[6]
+      value: "Ama ona ula\u015Fmal\u0131y\u0131m, san\u0131r\u0131m \u015Fans\u0131m\u0131
+        denemem laz\u0131m."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[7]
+      value: "Merhaba yolcu, t\xFCm ziyaret\xE7iler burada ho\u015F kar\u015F\u0131lan\u0131r."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[8]
+      value: "D\xFC\u015Ft\xFC\u011F\xFCn zaman bacaklar\u0131n kullan\u0131lamaz
+        hale geldi."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[9]
+      value: "Senin i\xE7in bu robotik bacaklar\u0131 yapt\u0131m."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[10]
+      value: "Peki Yolun nas\u0131l buralara d\xFC\u015Ft\xFC ? "
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[11]
+      value: "K\u0131z arkada\u015F\u0131m\u0131 kaybettim onu ar\u0131yorum."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[12]
+      value: "Anliyorum buralarda bir \xE7ok ki\u015Fi kaybolur."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[13]
+      value: "\u0130stersen k\u0131z arkada\u015F\u0131n\u0131 ararken ki yolculu\u011Fun
+        da sana e\u015Flik edebilirim."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[14]
+      value: "\u0130htiyac\u0131n oluca\u011F\u0131na eminim "
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[15]
+      value: "Tabiki bu yolculukta beni yanl\u0131z b\u0131rakmad\u0131\u011F\u0131n\u0131z
+        i\xE7in te\u015Fek\xFCr ederim."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[16]
+      value: "Te\u015Fekk\xFCr etmek i\xE7in daha \xE7ok erken hadi yola koyulal\u0131m."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[17]
+      value: "Birazc\u0131k y\xFCksek g\xF6r\xFCn\xFCyor"
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[18]
+      value: "Daha y\xFCkse\u011Fe z\u0131plaman i\xE7in bacaklar\u0131na yeni implantlar
+        yerle\u015Ftirdim."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[19]
+      value: "Yeni implantlar\u0131n sayesinde havada bir kez daha z\u0131playabiliceksin."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[20]
+      value: "(space+space) - \xC7ift Z\u0131plama - "
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[21]
+      value: "Haz\u0131rsan devam edelim."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[22]
+      value: "G\xF6r\xFCyorum ki farkl\u0131 engellerle kar\u015F\u0131la\u015Ft\u0131n."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[23]
+      value: "Yoluna devam edebilmen i\xE7in bacaklar\u0131na bir ka\xE7 ekleme yapt\u0131m."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[24]
+      value: "Art\u0131k ileriye at\u0131larak bo\u015Fluklar dan ge\xE7ebilirsin "
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[25]
+      value: "(shift) - At\u0131lma -"
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[26]
+      value: "H\u0131zl\u0131 olmal\u0131y\u0131z k\u0131z arkada\u015F\u0131n i\xE7in
+        \xE7ok ge\xE7 olabilir."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[27]
+      value: "Ma\u011Faran\u0131n dibine do\u011Fru yakla\u015Fiyoruz."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[28]
+      value: "Yeni eklemelerin sayesin de duvardan kayabilir ve duvardan duvara z\u0131playabilrsin."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[29]
+      value: "Havadayken duvara do\u011Fru gidersen kaymaya ba\u015Flars\u0131n duvara
+        yap\u0131\u015F\u0131p."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[30]
+      value: "Duvardan kayarken z\u0131playabilirsin."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[31]
+      value: "S-selin sonunda seni bulabildim aray\u0131\u015F\u0131m sona erdi."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[32]
+      value: "Sonunda sana tekrar kavu\u015Fabildim."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[33]
+      value: "Benim i\xE7in gelece\u011Fini biliyordum."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[34]
+      value: Sana inanarak burada bekledim.
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[35]
+      value: "Hadi seni burdan \xE7\u0131kartal\u0131m."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[36]
+      value: "HAHAHHAHAHA DEMEK KAVU\u015ETUNUZ \xDCZG\xDCN\xDCM AMA G\u0130TMEN\u0130ZE
+        \u0130Z\u0130N VEREMEM"
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[37]
+      value: "K\u0131z burda kalacak ve sende benimle geliceksin."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[38]
+      value: "Amac\u0131n ne bizden ne istiyorsun ???"
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[39]
+      value: "K\u0131z arkada\u015F\u0131n cyborglar hakk\u0131n da \xE7ok \u015Fey
+        biliyor ve art\u0131k sende bir cyborg say\u0131l\u0131rs\u0131n."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[40]
+      value: "Benim i\xE7in muhte\u015Fem bir e\u015F olabilirsin."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[41]
+      value: "Benimle kal ve yeni bir cyborg \xE7a\u011F\u0131 ba\u015Flatal\u0131m."
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[42]
+      value: Hayatta olmaz.
+      objectReference: {fileID: 0}
+    - target: {fileID: 928496226697395287, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: metinler.Array.data[43]
+      value: "O zaman ikiniz de \xF6ld\xFCrmek zorunday\u0131m"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2619859671489596594, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_Name
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.4166666
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.4166666
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.4166666
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -402.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -225.57
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+--- !u!4 &2041087614 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4925189970530788417, guid: cd71a56dbfdfa8743a08130b2052f537, type: 3}
+  m_PrefabInstance: {fileID: 2041087613}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &2041437092
 GameObject:
   m_ObjectHideFlags: 0
@@ -11905,6 +13713,99 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 1468224899131399350, guid: dfd6ac42f84cb83428a27a37df0ace1c, type: 3}
   m_PrefabInstance: {fileID: 56863477}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &2214286046778201810
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8763049638908571185}
+  - component: {fileID: 3297680591890812870}
+  - component: {fileID: 8158782113024345734}
+  - component: {fileID: 6075571198196026895}
+  m_Layer: 5
+  m_Name: SpeechBubble 1
+  m_TagString: Metinci
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!222 &3297680591890812870
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2214286046778201810}
+  m_CullTransparentMesh: 1
+--- !u!114 &6075571198196026895
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2214286046778201810}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15cd689219d8ad941b89872de1c585d7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  "textKoymaYER\u0130": {fileID: 1440187606}
+  asour: {fileID: 1269767188}
+  yazmaAraligi: 0.04
+  metin: 
+--- !u!114 &8158782113024345734
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2214286046778201810}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 0}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!224 &8763049638908571185
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2214286046778201810}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1.117514, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1440187608}
+  m_Father: {fileID: 549967248}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 0}
+  m_AnchoredPosition: {x: 0, y: 56}
+  m_SizeDelta: {x: 0, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -11924,3 +13825,6 @@ SceneRoots:
   - {fileID: 1914356792}
   - {fileID: 1393586589}
   - {fileID: 1638093801}
+  - {fileID: 549967248}
+  - {fileID: 764001928}
+  - {fileID: 1269767189}
