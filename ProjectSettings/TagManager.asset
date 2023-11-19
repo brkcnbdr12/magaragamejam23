@@ -11,6 +11,7 @@ TagManager:
   - "D\xF6nenDisk"
   - leftWall
   - rightWall
+  - metinKutusu
   layers:
   - Default
   - TransparentFX
