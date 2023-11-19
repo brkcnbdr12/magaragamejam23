@@ -549,6 +549,7 @@ GameObject:
   - component: {fileID: 272644138}
   - component: {fileID: 272644140}
   - component: {fileID: 272644139}
+  - component: {fileID: 272644141}
   m_Layer: 0
   m_Name: Terrain
   m_TagString: Untagged
@@ -17888,6 +17889,7 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+<<<<<<< HEAD
 --- !u!1001 &301451792
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -17945,6 +17947,44 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 29cf32de5edfc5b4098c5a28a8c6e6e7, type: 3}
+=======
+--- !u!19719996 &272644141
+TilemapCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 272644137}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_MaximumTileChangeCount: 1000
+  m_ExtrusionFactor: 0
+  m_UseDelaunayMesh: 0
+>>>>>>> a18879ab72954139d82197edd2023a491c4adc45
 --- !u!1001 &308409741
 PrefabInstance:
   m_ObjectHideFlags: 0
