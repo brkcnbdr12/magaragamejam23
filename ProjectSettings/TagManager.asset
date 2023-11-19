@@ -12,6 +12,7 @@ TagManager:
   - leftWall
   - rightWall
   - metinKutusu
+  - "SelinS\u0131rt"
   layers:
   - Default
   - TransparentFX
