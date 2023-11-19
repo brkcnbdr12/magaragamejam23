@@ -25,5 +25,5 @@ public class hızlanmaPlatform : MonoBehaviour
             }
 
         }
-            }
+      }
 }
