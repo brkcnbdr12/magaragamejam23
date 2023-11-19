@@ -4,15 +4,23 @@ using UnityEngine;
 
 public class MetinCagırma : MonoBehaviour
 {
-    public int DialogueCount = 0;
-    [SerializeField] private SpeechEditor metinci;
+    
+    public GameObject metinci;
     public string[] metinler;
+
+    private void Start()
+    {
+        metinci = GameObject.FindWithTag("metinKutusu");
+    }
     private void OnTriggerEnter2D(Collider2D other)
     {
+        
         if (other.CompareTag("Player"))
         {
-            metinci.YaziYazdir(metinler[DialogueCount]);
-            DialogueCount++;
+            metinci.GetComponent<SpeechEditor>().metin = metinler[PlayerPrefs.GetInt("DialogueCount",0)];
+            metinci.GetComponent<SpeechEditor>().Yazdırma();
+            PlayerPrefs.SetInt("DialogueCount", PlayerPrefs.GetInt("DialogueCount", 0) + 1);
+            Destroy(this.gameObject);
         }
     }
 }
