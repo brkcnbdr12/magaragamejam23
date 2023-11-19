@@ -27,9 +27,10 @@ public class Tırmanma : MonoBehaviour
 
     private void OnTriggerStay2D(Collider2D other)
     {
-        tırmanıyorum = true;
+        
         if (other.CompareTag("Ladder"))
         {
+            tırmanıyorum = true;
             anim.SetBool("Tırmanıyom", true);
         }
         if (rb.velocity.y == 0)

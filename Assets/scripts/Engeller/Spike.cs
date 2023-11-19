@@ -12,11 +12,15 @@ public class Spike : MonoBehaviour
     bool saðdanÇarptý;
     [SerializeField] private Rigidbody2D rb;
     private PlayerMovement movement;
-   
+    private void Start()
+    {
+        rb = GameObject.FindWithTag("Player").gameObject.GetComponent<Rigidbody2D>();
+    }
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.CompareTag("Player")) 
         {
+            
             movement = collision.GetComponent<PlayerMovement>();
             if (rb != null)
             {
@@ -32,6 +36,13 @@ public class Spike : MonoBehaviour
                     oyuncuScript.AzalCan(canAzalmasi);
                 }
             }
+        }
+    }
+    private void Update()
+    {
+        if((this.gameObject.transform.position.x - GameObject.FindWithTag("Player").gameObject.transform.position.x) <1 && this.CompareTag("dropable"))
+        {
+            this.GetComponent<Rigidbody2D>().isKinematic = false;
         }
     }
     private void inv()
