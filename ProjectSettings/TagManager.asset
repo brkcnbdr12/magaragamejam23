@@ -14,6 +14,7 @@ TagManager:
   - metinKutusu
   - "SelinS\u0131rt"
   - dropable
+  - Metinci
   layers:
   - Default
   - TransparentFX

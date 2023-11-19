@@ -8,10 +8,15 @@ public class MetinCagırma : MonoBehaviour
     public GameObject metinci;
     public string[] metinler;
 
+    private void Awake()
+    {
+        PlayerPrefs.DeleteAll();
+        metinci = GameObject.FindWithTag("metinci");
+    }
     private void Start()
     {
         
-        metinci = GameObject.FindWithTag("metinKutusu");
+       metinci = GameObject.FindWithTag("metinKutusu");
     }
     private void OnTriggerEnter2D(Collider2D other)
     {
