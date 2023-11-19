@@ -1,4 +1,5 @@
 using System.Collections;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
@@ -28,7 +29,7 @@ public class PlayerMovement : MonoBehaviour
     private float wallJumpingDuration = 0.4f;
     private Vector2 wallJumpingPower = new Vector2(4f, 8f);
 
-
+    private bool onRightWall;
     [SerializeField] private Rigidbody2D rb;
     [SerializeField] private Transform groundCheck;
     [SerializeField] private LayerMask groundLayer;
@@ -40,7 +41,28 @@ public class PlayerMovement : MonoBehaviour
     public bool Debugger = false;
     private void Update()
     {
-        if(IsGrounded() == false)
+        if (IsWalled())
+        {
+            animator.SetBool("Sürükleneom", true);
+           
+            this.gameObject.GetComponent<BoxCollider2D>().size = new Vector2(0.06f, this.gameObject.GetComponent<BoxCollider2D>().size.y);
+                //this.gameObject.transform.position = new Vector3(this.gameObject.transform.position.x - 0.1f, this.gameObject.transform.position.y, this.gameObject.transform.position.z);
+            
+        }
+        else
+        {
+            animator.SetBool("Sürükleneom", false);
+            this.gameObject.GetComponent<BoxCollider2D>().size = new Vector2(0.12f, this.gameObject.GetComponent<BoxCollider2D>().size.y);
+        }
+        if(transform.localScale.x < 0 && isWallSliding)
+        {
+            onRightWall = false;
+        }
+        if (transform.localScale.x > 0 && isWallSliding)
+        {
+            onRightWall = true;
+        }
+        if (IsGrounded() == false)
         {
             animator.SetBool("AmIGrounded", false);
         }
@@ -69,7 +91,7 @@ public class PlayerMovement : MonoBehaviour
         }
     
 
-    horizontal = Input.GetAxisRaw("Horizontal");
+      horizontal = Input.GetAxisRaw("Horizontal");
 
         if (IsGrounded() && !Input.GetButton("Jump"))
         {
@@ -116,6 +138,7 @@ public class PlayerMovement : MonoBehaviour
 
         if (!Debugger)
         {
+            
             rb.velocity = new Vector2(horizontal * speed, rb.velocity.y);
         }
 
@@ -152,14 +175,16 @@ public class PlayerMovement : MonoBehaviour
         if (IsWalled() && !IsGrounded() && horizontal != 0f)
         {
             isWallSliding = true;
+            
             rb.velocity = new Vector2(rb.velocity.x, Mathf.Clamp(rb.velocity.y, -wallSlidingSpeed, float.MaxValue));
         }
         else
         {
             isWallSliding = false;
+            
         }
     }
-
+    
     private void WallJump()
     {
         if (isWallSliding)
@@ -177,9 +202,10 @@ public class PlayerMovement : MonoBehaviour
         if (Input.GetButtonDown("Jump") && wallJumpingCounter > 0f)
         {
             isWallJumping = true;
+
             rb.velocity = new Vector2(wallJumpingDirection * wallJumpingPower.x, wallJumpingPower.y);
             wallJumpingCounter = 0f;
-
+            Invoke("ýnvck", 0.1f);
             if (transform.localScale.x != wallJumpingDirection)
             {
                 isFacingRight = !isFacingRight;
@@ -191,7 +217,21 @@ public class PlayerMovement : MonoBehaviour
             Invoke(nameof(StopWallJumping), wallJumpingDuration);
         }
     }
-
+    void ýnvck()
+    {
+        if(onRightWall && rb.velocity.x > -1 && rb.velocity.y > 1)
+        {
+            Debugger = true;
+            rb.velocity = new Vector2(rb.velocity.x -5, rb.velocity.y);
+            
+        }
+        if (!onRightWall && rb.velocity.x < 1 && rb.velocity.y > 1)
+        {
+            Debugger = true;
+            rb.velocity = new Vector2(rb.velocity.x + 5, rb.velocity.y);
+            
+        }
+    }
     private void StopWallJumping()
     {
         isWallJumping = false;
@@ -199,6 +239,7 @@ public class PlayerMovement : MonoBehaviour
 
     private IEnumerator Dash()
     {
+        animator.SetTrigger("Dash");
         Debugger = false;//Dýþ harekete etki için.
         canDash = false;
         isDashing = true;
