@@ -11,6 +11,7 @@ public class trambolKontrol : MonoBehaviour
     private void Start()
     {
         animator = GetComponent<Animator>();
+        hareket = GameObject.FindWithTag("Player").GetComponent<PlayerMovement>();
     }
     void OnCollisionEnter2D(Collision2D col)
     {

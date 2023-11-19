@@ -13,6 +13,7 @@ TagManager:
   - rightWall
   - metinKutusu
   - "SelinS\u0131rt"
+  - dropable
   layers:
   - Default
   - TransparentFX
