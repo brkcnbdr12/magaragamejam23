@@ -9,7 +9,7 @@ public class Tırmanma : MonoBehaviour
     private bool isClimbing;
     private Rigidbody2D rb;
     public Animator anim;
-   
+    public bool tırmanıyorum = false;
 
     private void Start()
     {
@@ -27,6 +27,7 @@ public class Tırmanma : MonoBehaviour
 
     private void OnTriggerStay2D(Collider2D other)
     {
+        tırmanıyorum = true;
         if (other.CompareTag("Ladder"))
         {
             anim.SetBool("Tırmanıyom", true);
@@ -42,6 +43,7 @@ public class Tırmanma : MonoBehaviour
     }
     private void OnTriggerExit2D(Collider2D other)
     {
+        tırmanıyorum = false;
         if (other.CompareTag("Ladder"))
         {
             isClimbing = false;
