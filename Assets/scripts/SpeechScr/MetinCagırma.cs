@@ -10,6 +10,7 @@ public class MetinCagırma : MonoBehaviour
 
     private void Start()
     {
+        
         metinci = GameObject.FindWithTag("metinKutusu");
     }
     private void OnTriggerEnter2D(Collider2D other)
