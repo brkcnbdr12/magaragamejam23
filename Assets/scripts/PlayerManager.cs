@@ -31,7 +31,7 @@ public class PlayerManager : MonoBehaviour
     }
     private void Update()
     {
-        Debug.Log(animator.speed.ToString());
+        
         if (animator.speed == 0 && this.GetComponent<Týrmanma>().týrmanýyorum == false)
             animator.speed = 1;
     }

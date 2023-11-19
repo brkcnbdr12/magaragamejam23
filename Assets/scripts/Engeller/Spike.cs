@@ -38,6 +38,13 @@ public class Spike : MonoBehaviour
             }
         }
     }
+    private void Update()
+    {
+        if((this.gameObject.transform.position.x - GameObject.FindWithTag("Player").gameObject.transform.position.x) <1 && this.CompareTag("dropable"))
+        {
+            this.GetComponent<Rigidbody2D>().isKinematic = false;
+        }
+    }
     private void inv()
     {
         movement.Debugger = false;
