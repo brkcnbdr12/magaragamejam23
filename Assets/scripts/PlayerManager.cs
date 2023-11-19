@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerManager : MonoBehaviour
 {
@@ -21,9 +22,13 @@ public class PlayerManager : MonoBehaviour
             animator.SetBool("IAmDeath",true);
             this.gameObject.GetComponent<PlayerMovement>().enabled = false;
             Debug.Log("Oyuncu öldü!");
+            Invoke("Invic",0.5f);
         }
     }
-
+    void Invic()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+    }
     private void Update()
     {
         if (animator.speed == 0 && this.GetComponent<Týrmanma>().týrmanýyorum == false)

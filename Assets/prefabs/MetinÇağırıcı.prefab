@@ -90,14 +90,55 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6e1594fc139999849a3b9886b812d434, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  DialogueCount: 0
   metinci: {fileID: 0}
   metinler:
-  - Metin Demosu 1
-  - Metin Demosu 2
-  - Metin Demosu 3
-  - Metin Demosu 4
-  - Metin Demosu 5
-  - Metin Demosu 6
-  - Metin Demosu 7
-  - Metin Demosu 8
+  - Neredeyim ben.
+  - "Kar\u0131m nerede."
+  - "Onu bulmam laz\u0131m."
+  - "San\u0131r\u0131m buradan ilerlemeliyim."
+  - "Buradan nas\u0131l atl\u0131y\u0131cam."
+  - "Ama ona ula\u015Fmal\u0131y\u0131m, san\u0131r\u0131m \u015Fans\u0131m\u0131
+    denemem laz\u0131m."
+  - "Merhaba yolcu, t\xFCm ziyaret\xE7iler burada ho\u015F kar\u015F\u0131lan\u0131r."
+  - "D\xFC\u015Ft\xFC\u011F\xFCn zaman bacaklar\u0131n kullan\u0131lamaz hale geldi."
+  - "Senin i\xE7in bu robotik bacaklar\u0131 yapt\u0131m."
+  - "Peki Yolun nas\u0131l buralara d\xFC\u015Ft\xFC ? "
+  - "K\u0131z arkada\u015F\u0131m\u0131 kaybettim onu ar\u0131yorum."
+  - "Anliyorum buralarda bir \xE7ok ki\u015Fi kaybolur."
+  - "\u0130stersen k\u0131z arkada\u015F\u0131n\u0131 ararken ki yolculu\u011Fun
+    da sana e\u015Flik edebilirim."
+  - "\u0130htiyac\u0131n oluca\u011F\u0131na eminim "
+  - "Tabiki bu yolculukta beni yanl\u0131z b\u0131rakmad\u0131\u011F\u0131n\u0131z
+    i\xE7in te\u015Fek\xFCr ederim."
+  - "Te\u015Fekk\xFCr etmek i\xE7in daha \xE7ok erken hadi yola koyulal\u0131m."
+  - "Birazc\u0131k y\xFCksek g\xF6r\xFCn\xFCyor"
+  - "Daha y\xFCkse\u011Fe z\u0131plaman i\xE7in bacaklar\u0131na yeni implantlar
+    yerle\u015Ftirdim."
+  - "Yeni implantlar\u0131n sayesinde havada bir kez daha z\u0131playabiliceksin."
+  - "(space+space) - \xC7ift Z\u0131plama - "
+  - "Haz\u0131rsan devam edelim."
+  - "G\xF6r\xFCyorum ki farkl\u0131 engellerle kar\u015F\u0131la\u015Ft\u0131n."
+  - "Yoluna devam edebilmen i\xE7in bacaklar\u0131na bir ka\xE7 ekleme yapt\u0131m."
+  - "Art\u0131k ileriye at\u0131larak bo\u015Fluklar dan ge\xE7ebilirsin "
+  - "(shift) - At\u0131lma -"
+  - "H\u0131zl\u0131 olmal\u0131y\u0131z k\u0131z arkada\u015F\u0131n i\xE7in \xE7ok
+    ge\xE7 olabilir."
+  - "Ma\u011Faran\u0131n dibine do\u011Fru yakla\u015Fiyoruz."
+  - "Yeni eklemelerin sayesin de duvardan kayabilir ve duvardan duvara z\u0131playabilrsin."
+  - "Havadayken duvara do\u011Fru gidersen kaymaya ba\u015Flars\u0131n duvara yap\u0131\u015F\u0131p."
+  - "Duvardan kayarken z\u0131playabilirsin."
+  - "S-selin sonunda seni bulabildim aray\u0131\u015F\u0131m sona erdi."
+  - "Sonunda sana tekrar kavu\u015Fabildim."
+  - "Benim i\xE7in gelece\u011Fini biliyordum."
+  - Sana inanarak burada bekledim.
+  - "Hadi seni burdan \xE7\u0131kartal\u0131m."
+  - "HAHAHHAHAHA DEMEK KAVU\u015ETUNUZ \xDCZG\xDCN\xDCM AMA G\u0130TMEN\u0130ZE \u0130Z\u0130N
+    VEREMEM"
+  - "K\u0131z burda kalacak ve sende benimle geliceksin."
+  - "Amac\u0131n ne bizden ne istiyorsun ???"
+  - "K\u0131z arkada\u015F\u0131n cyborglar hakk\u0131n da \xE7ok \u015Fey biliyor
+    ve art\u0131k sende bir cyborg say\u0131l\u0131rs\u0131n."
+  - "Benim i\xE7in muhte\u015Fem bir e\u015F olabilirsin."
+  - "Benimle kal ve yeni bir cyborg \xE7a\u011F\u0131 ba\u015Flatal\u0131m."
+  - Hayatta olmaz.
+  - "O zaman ikiniz de \xF6ld\xFCrmek zorunday\u0131m"
