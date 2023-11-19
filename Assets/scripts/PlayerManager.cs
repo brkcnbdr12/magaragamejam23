@@ -17,7 +17,8 @@ public class PlayerManager : MonoBehaviour
         animator.SetTrigger("GetDamage");
         if (can <= 0)
         {
-            // Oyuncu öldüðünde yapýlacak iþlemler burada olucak.
+            animator.SetBool("IAmDeath",true);
+            this.gameObject.GetComponent<PlayerMovement>().enabled = false;
             Debug.Log("Oyuncu öldü!");
         }
     }
